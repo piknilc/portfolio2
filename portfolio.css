@@ -1,0 +1,57 @@
+*{
+    font-family:maiandra gd;
+
+}
+
+body {
+    color: rgb(2, 181, 236);
+    font-size: 22px;
+    background-color: rgb(59, 10, 87);
+    background-repeat: round;
+    text-align: justify;
+
+}
+button
+{
+    background-color: rgb(56, 1, 78);
+padding: 2%;
+padding-inline: 2%;
+border-radius: 3%;
+border-style: ridge;
+border-bottom-right-radius: 15%;
+text-decoration: solid;
+}
+h1 {
+    color: rgb(94, 164, 204);
+    text-align: center;
+}
+h2 {
+    color: rgb(99, 250, 29);
+    text-align: left;
+    animation: alternate;
+}
+h3 {
+    color: rgb(245, 35, 217);
+    text-align: left;
+}
+h4{
+    color:rgb(245, 33, 210)
+}
+h5{
+    color: aliceblue;
+}
+h6{
+    color: aquamarine;
+}
+#gray{
+    color: rgb(153, 128, 151);
+}
+
+#second{
+    font-style: italic;
+
+}
+.b2
+{
+text-size-adjust: 54;
+}
